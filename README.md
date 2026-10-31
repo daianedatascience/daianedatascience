@@ -14,11 +14,11 @@ Tenho especial interesse em privacidade, proteção de dados e uso responsável 
 
 ---
 
-#### 🛡️ Domínios de Atuação & Interesse
+#### 🎯 Áreas de Atuação e Interesse
 
-- **Governança de Dados & IA:** Governança, qualidade, gestão do ciclo de vida dos dados, uso responsável de IA e gestão de riscos.
+- **Governança de Dados & IA:** Qualidade, gestão do ciclo de vida dos dados, uso responsável de IA e gestão de riscos.
 - **Segurança & Privacidade:** Proteção de dados pessoais e sensíveis, LGPD, segurança da informação e Privacy by Design.
-- **Ciência & Engenharia de Dados:** Análise exploratória, modelagem, integração de dados e construção de pipelines.
+- **Ciência & Engenharia de Dados:** Análise exploratória, modelagem, integração e preparação de dados.
 - **Educação & Gestão Pública:** Indicadores, dashboards estratégicos e análise de dados para apoio à tomada de decisão.
 
 #### 💻 Linguagens
