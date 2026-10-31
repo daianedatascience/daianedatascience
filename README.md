@@ -4,7 +4,7 @@
 
 Olá! 🙋🏾‍♀️ Sou **Daiane Menezes**, Cientista de Dados, com interesse em **Governança de Dados, Governança de IA e Segurança da Informação**.
 
-Atuo na interseção entre **análise de dados, tecnologia e governança**, com experiência em projetos de educação e gestão pública. Meu trabalho envolve transformar dados em informações estratégicas para apoiar decisões, aprimorar processos e gerar valor.
+Atuo na interseção entre **ciência de dados e governança**, com experiência em projetos de educação e gestão pública. Meu trabalho envolve transformar dados em informações estratégicas para apoiar decisões, aprimorar processos e gerar valor.
 
 Tenho especial interesse em privacidade, proteção de dados e uso responsável da tecnologia, buscando integrar **qualidade, segurança, ética e conformidade com a LGPD** ao ciclo de vida dos dados.
 
