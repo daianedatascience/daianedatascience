@@ -2,8 +2,11 @@
 
 **`Cientista de Dados`**
 
-Oi! :) 🙋🏾‍♀️  
-Sou Daiane Menezes e possuo experiência em pesquisa, análise e visualização aplicada a projetos de **educação, políticas públicas e gestão**. Tenho um olhar voltado para **Governança e Segurança de Dados**, com especial interesse em temas de privacidade e direitos. Busco unir minha experiência técnica ao desenvolvimento de soluções cada vez mais seguras, responsáveis e estratégicas.
+Olá! 🙋🏾‍♀️ Sou **Daiane Menezes**, Cientista de Dados, com interesse em **Governança de Dados, Governança de IA e Segurança da Informação**.
+
+Atuo na interseção entre **análise de dados, tecnologia e governança**, com experiência em projetos de educação e gestão pública. Meu trabalho envolve transformar dados em informações estratégicas para apoiar decisões, aprimorar processos e gerar valor.
+
+Tenho especial interesse em privacidade, proteção de dados e uso responsável da tecnologia, buscando integrar **qualidade, segurança, ética e conformidade com a LGPD** ao ciclo de vida dos dados.
 
 🎓 MBA em Data Science e Analytics — **USP/ESALQ**  
 📩 **Contato:** daianedatascience@usp.br
