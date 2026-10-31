@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Olá! 🙋🏾‍♀️ Sou **Daiane Menezes**, Cientista de Dados, com foco em **Governança de Dados, Governança de IA e Segurança da Informação**.
+Olá! 🙋🏾‍♀️ Sou **Daiane Menezes**, Cientista de Dados, com foco em **Governança de Dados e IA,Segurança e Privacidade da Informação**.
 
 Atuo na interseção entre **ciência de dados e governança**, com experiência em projetos de educação e gestão pública. Meu trabalho envolve transformar dados em informações estratégicas para apoiar decisões, aprimorar processos e gerar valor.
 
