@@ -12,22 +12,35 @@ Tenho especial interesse em privacidade, proteção de dados e uso responsável 
 📩 **Contato:** daianedatascience@usp.br
 
 
+---
 
-### 🛡️ Domínios de Atuação & Interesse
+#### 🛡️ Domínios de Atuação & Interesse
 
 - **Governança de Dados & IA:** Governança, qualidade, gestão do ciclo de vida dos dados, uso responsável de IA e gestão de riscos.
 - **Segurança & Privacidade:** Proteção de dados pessoais e sensíveis, LGPD, segurança da informação e Privacy by Design.
 - **Ciência & Engenharia de Dados:** Análise exploratória, modelagem, integração de dados e construção de pipelines.
 - **Educação & Gestão Pública:** Indicadores, dashboards estratégicos e análise de dados para apoio à tomada de decisão.
 
-### 🤖 Ferramentas & Tecnologias
+#### 💻 Linguagens
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Google Cloud" title="Google Cloud / BigQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Looker Studio" title="Google Looker Studio" width="30px" style="padding-right: 10px;" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" />
-<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+![R](https://custom-icon-badges.demolab.com/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://custom-icon-badges.demolab.com/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<br/>
-<br/>
+#### 📊 Análise e Visualização
+
+![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Sheets](https://custom-icon-badges.demolab.com/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Looker Studio](https://custom-icon-badges.demolab.com/badge/Looker%20Studio-F9AB00?style=for-the-badge&logo=looker&logoColor=white)
+
+#### 👩🏿‍💻🧪Desenvolvimento e Testes
+
+![Pytest](https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+#### 🤝🏿 Organização e Colaboração
+
+![Notion](https://custom-icon-badges.demolab.com/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://custom-icon-badges.demolab.com/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038)
+![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
