@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Daiane Menezes, . Atualmente, estou . Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu .
+Sou Daiane Menezes, . Atualmente, estou . Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu .
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
