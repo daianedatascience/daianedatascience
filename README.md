@@ -1,6 +1,6 @@
 ### 👩🏾‍💻 Daiane Menezes
 
-**`Analista de Dados | MBA em Ciência de Dados | Data Governance & AI Governance`**
+**`Analista de Dados | MBA em Ciência de Dados | Governança de Dados e Governança de IA`**
 
 Olá! 🙋🏾‍♀️ Sou **Daiane Menezes**, Analista de Dados, com foco em **Governança de Dados e IA,Segurança e Privacidade da Informação**.
 
