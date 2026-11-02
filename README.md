@@ -30,12 +30,9 @@ Tenho especial interesse em privacidade, proteção de dados e uso responsável 
 
 #### 📊 Análise e Visualização
 
-### 📊 Visualização de dados
-
 ![DataViz](https://img.shields.io/badge/DataViz-Visualiza%C3%A7%C3%A3o%20de%20Dados-8A6D5C?style=for-the-badge)
 ![p5.js](https://img.shields.io/badge/p5.js-Creative%20Coding-ED225D?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Visualiza%C3%A7%C3%A3o-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Visualiza%C3%A7%C3%A3o-4285F4?style=for-the-badge)
 
 #### 👩🏿‍💻🧪Desenvolvimento e Testes
 
