@@ -33,6 +33,7 @@ Tenho especial interesse em privacidade, proteção de dados e uso responsável 
 ![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Sheets](https://custom-icon-badges.demolab.com/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Looker Studio](https://custom-icon-badges.demolab.com/badge/Looker%20Studio-F9AB00?style=for-the-badge&logo=looker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=p5js,js" />
 
 #### 👩🏿‍💻🧪Desenvolvimento e Testes
 
